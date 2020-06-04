@@ -2,6 +2,8 @@
 
 Create a login form in order to learn new data validation method
 
+![GIF 04-06-2020 08-15-56](https://user-images.githubusercontent.com/48330827/83727456-ff517b00-a63c-11ea-90fe-6195a53ecc3c.gif)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
